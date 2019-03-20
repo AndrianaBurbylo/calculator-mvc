@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?import java.net.*?>
 <?import java.lang.*?>
 <?import java.util.*?>
@@ -16,7 +15,6 @@
     <fx:define>
         <Font fx:id="FONT" size="18" />
     </fx:define>
-    
     <StackPane alignment="CENTER">
         <Rectangle fill="TRANSPARENT" stroke="GRAY" width="230" height="50" />
         <Text fx:id="output" font="$FONT" />
